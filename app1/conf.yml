@@ -1,0 +1,5 @@
+template: Hello, %s!
+defaultName: Stranger
+
+swagger:
+  resourcePackage: ca.digitala.app1.resources
